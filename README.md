@@ -53,8 +53,6 @@ Machine Learning:
 
 ## API Endpoint
 
-GET /api/analysis
-
 Example Response:
 
 ```json
